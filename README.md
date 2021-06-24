@@ -1,4 +1,10 @@
-### Hi there 👋
+### Front-end Developer 👋
+### Stack 
+![Tech Blog Badge](http://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Tech Blog Badge](http://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javaScript)
+![Tech Blog Badge](http://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)
+
+![Junhyok's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyok&show_icons=true&theme=radical)
 
 <!--
 **junhyok/junhyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
